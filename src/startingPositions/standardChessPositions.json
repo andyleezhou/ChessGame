@@ -1,0 +1,196 @@
+
+// {
+//     "piece1": {
+//         "piece": "Rook",
+//         "player": 2,
+//         "x": 0,
+//         "y": 0
+//     },
+//     "piece2": {
+//         "piece": "Rook",
+//         "player": 2,
+//         "x": 7,
+//         "y": 0
+//     },
+//     "piece3": {
+//         "piece": "Knight",
+//         "player": 2,
+//         "x": 1,
+//         "y": 0
+//     },
+//     "piece4": {
+//         "piece": "Knight",
+//         "player": 2,
+//         "x": 6,
+//         "y": 0
+//     },
+//     "piece5": {
+//         "piece": "Bishop",
+//         "player": 2,
+//         "x": 2,
+//         "y": 0
+//     },
+//     "piece6": {
+//         "piece": "Bishop",
+//         "play:er": 2,
+//         "x": 5,
+//         "y": 0
+//     },
+//     "piece7": {
+//         "piece": "Queen",
+//         "player": 2,
+//         "x": 3,
+//         "y": 0
+//     },
+//     "piece8":{
+//         "piece": "King",
+//         "player": 2,
+//         "x": 4,
+//         "y": 0
+//     },
+//     "piece9": {
+//         "piece": "Pawn",
+//         "player": 2,
+//         "x": 0,
+//         "y": 1
+//     },
+//     "piece10": {
+//         "piece": "Pawn",
+//         "player": 2,
+//         "x": 1,
+//         "y": 1
+//     },
+//     "piece11": {
+//         "piece": "Pawn",
+//         "player": 2,
+//         "x": 2,
+//         "y": 1
+//     },
+//     "piece12": {
+//         "piece": "Pawn",
+//         "player": 2,
+//         "x": 3,
+//         "y": 1
+//     },
+//     "piece13": {
+//         "piece": "Pawn",
+//         "player": 2,
+//         "x": 4,
+//         "y": 1
+//     },
+//     "piece14": {
+//         "piece":  "Pawn",
+//         "player": 2,
+//         "x": 5,
+//         "y": 1
+//     },
+//         "piece15": {
+//         "piece": "Pawn",
+//         "player": 2,
+//         "x": 6,
+//         "y": 1
+//     },
+//         "piece16": {
+//         "piece": "Pawn",
+//         "player": 2,
+//         "x": 7,
+//         "y": 1
+//     },
+//        "piece17": {
+//         "piece": "Rook",
+//         "player": 1,
+//         "x": 0,
+//         "y": 7
+//     },
+//       "piece18": {
+//         "piece":  "Rook",
+//         "player": 1,
+//         "x": 7,
+//         "y": 7
+//     },
+//     "piece19":  {
+//         "piece": "Knight",
+//         "player": 1,
+//         "x": 1,
+//         "y": 7
+//     },
+    
+//     "piece20": {
+//         "piece": "Knight",
+//         "player": 1,
+//         "x": 6,
+//         "y": 7
+//     },
+//       "piece21": {
+//         "piece": "Bishop",
+//         "player": 1,
+//         "x": 2,
+//         "y": 7
+//     },
+//       "piece22": {
+//         "piece": "Bishop",
+//         "player": 1,
+//         "x": 5,
+//         "y": 7
+//     },
+//       "piece23": {
+//         "piece": "Queen",
+//         "player": 1,
+//         "x": 3,
+//         "y": 7
+//     },
+//       "piece24": {
+//         "piece": "King",
+//         "player": 1,
+//         "x": 4,
+//         "y": 7
+//     },
+//     "piece25": {
+//         "piece": "Pawn",
+//         "player":  1,
+//         "x": 0,
+//         "y": 6
+//     },
+//       "piece26":  {
+//         "piece": "Pawn",
+//         "player": 1,
+//         "x": 1,
+//         "y": 6
+//     },
+//         "piece27": {
+//         "piece": "Pawn",
+//         "player": 1,
+//         "x": 2,
+//         "y": 6
+//     },
+//         "piece28": {
+//         "piece": "Pawn",
+//         "player": 1,
+//         "x": 3,
+//         "y": 6
+//     },
+//         "piece29": {
+//         "piece": "Pawn",
+//         "player": 1,
+//         "x": 4,
+//         "y": 6
+//     },
+//         "piece30": {
+//         "piece": "Pawn",
+//         "player": 1,
+//         "x": 5,
+//         "y": 6
+//     },
+//         "piece31": {
+//         "piece": "Pawn",
+//         "player": 1,
+//         "x": 6,
+//         "y": 6
+//     },
+//         "piece32": {
+//         "piece": "Pawn",
+//         "player": 1,
+//         "x": 7,
+//         "y": 6
+//     }
+// }
